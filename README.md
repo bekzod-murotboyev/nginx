@@ -29,5 +29,5 @@ sudo vim /etc/nginx/sites-available/default
 
 - After changing just restart nginx and website ready to work!
 ```
-systemctl restart nginx
+sudo systemctl restart nginx
 ```
